@@ -1,6 +1,6 @@
 public class MyName{
 
-	public static printName() {
+	public static void printName() {
 		
 		System.out.println("Swapna");
 		
